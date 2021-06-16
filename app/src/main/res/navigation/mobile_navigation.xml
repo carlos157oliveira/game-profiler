@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/nav_human">
+
+    <fragment
+        android:id="@+id/nav_human"
+        android:label="@string/menu_human_style"
+        tools:layout="@layout/fragment_human_style"
+        android:name="com.github.carlos157oliveira.gameprofiler.ui.humanstyle.HumanFragment"/>
+
+    <fragment
+        android:id="@+id/nav_initials"
+        android:name="com.github.carlos157oliveira.gameprofiler.ui.initialsstyle.InitialsFragment"
+        android:label="@string/menu_initials_style"
+        tools:layout="@layout/fragment_initials_style" />
+
+    <fragment
+        android:id="@+id/nav_micah"
+        android:name="com.github.carlos157oliveira.gameprofiler.ui.micahstyle.MicahFragment"
+        android:label="@string/menu_micah_style"
+        tools:layout="@layout/fragment_micah_style" />
+</navigation>

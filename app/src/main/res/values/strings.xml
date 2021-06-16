@@ -1,0 +1,77 @@
+<resources>
+    <string name="app_name">Game Profiler</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Game Profiler</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_human_style">Human</string>
+    <string name="menu_initials_style">Initials</string>
+    <string name="menu_micah_style">Micah</string>
+    
+    <string-array name="earrings">
+        <item>(nulo)</item>
+        <item>hoop</item>
+        <item>stud</item>
+    </string-array>
+
+    <string-array name="colors">
+        <item>(nulo)</item>
+        <item>apricot</item>
+        <item>coast</item>
+        <item>topaz</item>
+        <item>lavender</item>
+        <item>sky</item>
+        <item>salmon</item>
+        <item>canary</item>
+        <item>calm</item>
+        <item>azure</item>
+        <item>seashell</item>
+        <item>mellow</item>
+        <item>black</item>
+        <item>white</item>
+    </string-array>
+    
+    <string-array name="eyebrows">
+        <item>(nulo)</item>
+        <item>down</item>
+        <item>eyelashesDown</item>
+        <item>eyelashesUp</item>
+        <item>up</item>
+    </string-array>
+    
+    <string-array name="eyes">
+        <item>(nulo)</item>
+        <item>eyes</item>
+        <item>eyesShadow</item>
+        <item>round</item>
+        <item>smiling</item>
+    </string-array>
+    
+    <string-array name="facialHair">
+        <item>(nulo)</item>
+        <item>beard</item>
+		<item>scruff</item>
+    </string-array>
+    
+    <string-array name="mouth">
+        <item>(nulo)</item>
+        <item>frown</item>
+		<item>laughing</item>
+		<item>nervous</item>
+		<item>pucker</item>
+		<item>sad</item>
+		<item>smile</item>
+		<item>smirk</item>
+		<item>surprised</item>
+    </string-array>
+    
+    <string-array name="nose">
+        <item>(nulo)</item>
+        <item>curve</item>
+		<item>pointed</item>
+		<item>round</item>
+    </string-array>
+</resources>
